@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets - never commit real credentials
+.env
+.env.local
+
+# Runtime logs
+execution_log.txt
